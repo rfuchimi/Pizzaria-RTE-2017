@@ -3,6 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: ultimate-chatbot-bzt
-  host: ultimate-chatbot-bzt
+  name: smazon-pizza-rte
+  host: smazon-pizza-rte
   disk_quota: 256M
